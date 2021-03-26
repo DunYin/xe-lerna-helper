@@ -1,0 +1,20 @@
+{
+  "name": "xe-lerna-helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DunYin/xe-lerna-helper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DunYin/xe-lerna-helper/issues"
+  },
+  "homepage": "https://github.com/DunYin/xe-lerna-helper#readme"
+}
